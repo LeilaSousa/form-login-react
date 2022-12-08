@@ -1,0 +1,13 @@
+.buttonContainer{
+    margin:auto;
+    text-align: center;
+}.buttonStyle{
+    padding: .6rem;
+    border-radius: .5rem;
+    border: none;
+    font-weight: bold;
+    background-color: var(--cream);
+    width: 40vw;
+    cursor: pointer;
+    color: #808080;
+}

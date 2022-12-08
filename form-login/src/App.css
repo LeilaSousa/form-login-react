@@ -1,0 +1,11 @@
+:root{
+  --cream: #fffdd0;
+}
+
+*{
+  margin: 0;
+  padding:0;
+}
+body{
+  background-image: linear-gradient(to right, #bbd2c5, #536976);
+}
